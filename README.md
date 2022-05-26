@@ -2,5 +2,5 @@
 
 This repository contains Server/Bug Development at VGN Roleplay 
 
-* [VGN Roleplay](http://vgnroleplay.co.uk/), a FiveM server open to all types of players to enjoy and play
+* [VGN Roleplay](http://vgnroleplay.co.uk/), a FiveM server open to all types of players to enjoy and play.
 
